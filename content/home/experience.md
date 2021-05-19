@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Master of Science in Electrical and Computer Engineering
+    company: Georgia Institute of Technology
+    company_url: 'https://www.ece.gatech.edu/'
+    company_logo: 
+    location: Atlanta, GA
+    date_start: '2020-08-01'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        * Expected to Graduate on May 2022
+        * GPA: 3.60/4.0
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Bachelor of Science in Electrical Engineering
+    company: Virginia Tech
+    company_url: 'https://ece.vt.edu/'
+    company_logo: 
+    location: Blacksburg VA
+    date_start: '2016-08-01'
+    date_end: '2020-01-01'
+    description: |2-
+        * Dean’s List 6/8 semesters
+        * In major GPA: 3.62/4.0
 
 design:
   columns: '2'
