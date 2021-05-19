@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: bezier-curve
   icon_pack: fas
-  name: VLSI design
+  name: VLSI Design
 - description:
   icon: file-code
   icon_pack: fas
